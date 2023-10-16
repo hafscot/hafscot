@@ -25,11 +25,7 @@
 - 📝 I occasionally write about web development and tech on my [personal blog](https://blog.hafscot.dev)
 - 📢 I share my thoughts on Twitter [@hafscot](https://twitter.com/hafscot)
 
-## Let's Connect
 
-- 📬 Reach me at [myemail@example.com](mailto:myemail@example.com)
-- 🌐 Visit my personal website: [hafscot.dev](https://hafscot.dev)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hafscot)
 
 Feel free to explore my GitHub repositories and get in touch. I'm always open to collaborations and new opportunities. 😊
 
